@@ -1,0 +1,25 @@
+# Data — demasiado pesado para git
+data/raw/
+data/processed/
+
+# Modelos entrenados
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Colab / Drive
+*.parquet
