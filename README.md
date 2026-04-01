@@ -235,7 +235,7 @@ No local setup required. All data downloads automatically and saves to Google Dr
 ### Option B: Local Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlb-predictor.git
+git clone https://github.com/davidalv2/mlb-predictor.git
 cd mlb-predictor
 python -m venv venv
 source venv/bin/activate        # Mac/Linux
